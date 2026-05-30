@@ -26,7 +26,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 
 # %%
-df = pd.read_csv(r"C:\Users\gosan\Downloads\dataset2\Twitter_Data.csv")
+df = pd.read_csv("Twitter_Data.csv")
 
 print(df.head())
 
