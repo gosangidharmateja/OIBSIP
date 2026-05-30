@@ -10,7 +10,7 @@ import seaborn as sns
 # %%
 # Load dataset
 
-df = pd.read_csv("C:/Users/gosan/Downloads/menu.csv")
+df = pd.read_csv("menu.csv")
 
 # %%
 # Display first 5 rows
