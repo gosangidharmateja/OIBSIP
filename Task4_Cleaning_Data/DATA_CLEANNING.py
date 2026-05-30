@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv("C:/Users/gosan/Downloads/dataset/AB_NYC_2019.csv")
+df = pd.read_csv("AB_NYC_2019.csv")
 
 print(df.head())
 
